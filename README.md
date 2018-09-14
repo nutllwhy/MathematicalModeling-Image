@@ -3,7 +3,7 @@
 
 2017 D题 基于监控视频的前景目标提取
 横向对比分析四篇一等奖论文的解题方法和思路，汇总为思维导图：
-![](http://pci87zelt.bkt.clouddn.com/Fudo-5x8Hqwnvot1ikib4dyEpPYk)
+![](http://pci87zelt.bkt.clouddn.com/Fpxq8qxk1x3fduNTpn7Z8pzouzUO)
 
 未完待续
 
